@@ -37,7 +37,7 @@ The RFM modeling approach is used to analyze customer value based on three dimen
 ## Usage
 1. Clone the repository.
 2. Install the required packages.
-3. Run the Jupyter Notebook `Customer_Segmentation_using_RFM_Modeling.ipynb`.
+3. Run the Jupyter Notebook
 
 ## Contributing
 Contributions, issues, and feature requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
